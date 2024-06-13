@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-6-13-image.md",
+                "file": "2024-6-6-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-6-13-image.md",
+                "file": "2024-6-6-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-6-13-image.md",
+                "file": "2024-6-6-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-6-13-image.md"
+                "file": "2024-6-6-git.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +149,9 @@
   },
   "active": "e317ddd630e093d7",
   "lastOpenFiles": [
-    "{{.md",
-    "2024-6-13-image.md"
+    "2014-3-3-Hello-World.md",
+    "2024-6-7-Vue.md",
+    "2024-6-13-image.md",
+    "{{.md"
   ]
 }
