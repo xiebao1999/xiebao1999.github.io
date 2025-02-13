@@ -1,3 +1,9 @@
+---
+layout: post
+title: dotnet框架搭建项目
+tags: dotnet
+---
+
 在 Windows 系统上配置 Git 和 GitHub 的 SSH 传输与在其他系统上类似，但有一些特定的步骤和工具需要注意。以下是针对 Windows 系统的详细指南：
 
 ---
