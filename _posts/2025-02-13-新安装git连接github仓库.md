@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-0213-新安装git连接github仓库
+title: 新安装git连接github仓库
 tags: git
 ---
 
